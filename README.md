@@ -68,15 +68,6 @@ Features
 
 Real-time Chat: Engage in dynamic conversations with AI.
 
-Memory Functionality: Optionally remembers previous interactions for a seamless experience.
-
-Custom AI Personalities: Allows users to customize the chatbot’s tone and style.
-
-Secure Communication: End-to-end encryption for safe interactions.
-
-User-Friendly Interface: Clean and responsive design for easy interaction.
-
-Multimodal Support: Future updates may include voice and image processing.
 
 
 LOGS: 
