@@ -87,3 +87,7 @@ User-Friendly Interface: Clean and responsive design for easy interaction.
 Multimodal Support: Future updates may include voice and image processing.
 
 
+LOGS: 
+Had trouble getting all the API's to work together. Had to change languages to JS to make the the process more seamless. 
+
+
