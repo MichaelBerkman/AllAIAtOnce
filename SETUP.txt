@@ -1,0 +1,12 @@
+npm install next
+
+npm install openai
+npm install @google/generative-ai
+npm install @anthropic-ai/sdk
+
+npm install remark-gfm
+npm install remark-breaks
+
+
+
+

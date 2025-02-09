@@ -1,0 +1,57 @@
+/* Reset and basic styles */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to bottom, #52307c, #d16ba5);
+  height: 100vh;
+  margin: 0;
+}
+
+/* Common chat box styling */
+#ChatBox1,
+#ChatBox2,
+#ChatBox3,
+#ChatBox4 {
+  position: absolute;
+  /* Reduced from 44.7% to prevent overlap on smaller screens */
+  width: 89%;  
+  height: 80%;   
+  background-color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  overflow-y: auto;
+  overflow-x: hidden;
+  word-wrap: break-word;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+
+/* Position each box individually */
+#ChatBox1 {
+  top: 8.5%;
+  /* Use calc to keep the box clear of the sidebar try left: calc(125px + 2%)*/
+  left: calc(125px + 1%);
+  
+}
+
+#ChatBox2 {
+  top: 8.5%;
+  right: calc(-30px + 2%);
+}
+
+#ChatBox3 {
+  top: 50%;
+  left: calc(125px + 2%);
+}
+
+#ChatBox4 {
+  top: 50%;
+  right: calc(-30px + 2%);
+}

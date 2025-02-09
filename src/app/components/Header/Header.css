@@ -1,0 +1,33 @@
+.main-header {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #d8d8d8;
+    color: rgb(6, 6, 6);
+    width: 100%;
+    background-image: url('/assets/background.jpg'); 
+    
+}
+
+.header-link {
+    padding: 8px 15px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    background-color: transparent; 
+    border: none;
+    cursor: pointer;
+}
+
+.header-link:hover {
+    background-color: #ffffff; /* Slightly darker green for hover effect */
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .main-header {
+        flex-direction: column;
+    }
+}
+

@@ -1,0 +1,12 @@
+button{
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    margin-top: 30%;
+    margin-left: 30%;
+    width: 20;
+    height: 20;
+    border: solid blue;
+    background-color: rgb(10, 16, 1);
+ }
+ 
