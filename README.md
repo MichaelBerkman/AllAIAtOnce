@@ -38,17 +38,9 @@ Tools Utilized
 
 OpenAI API: The backbone of the project, providing powerful AI-driven conversational capabilities.
 
-Python: Used for backend development and API integration.
-
-Flask: Enables the development of a lightweight web server to handle chatbot interactions.
-
 React: Powers the frontend, creating an intuitive and user-friendly interface.
 
 HTML, CSS, JavaScript: Used for designing and styling the web-based UI.
-
-SQLite/PostgreSQL: Database options for storing user queries and chatbot responses if needed.
-
-Docker: Containerization for easy deployment and scalability.
 
 Challenges and Solutions
 
